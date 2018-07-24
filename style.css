@@ -1,0 +1,15 @@
+div.header {
+  background-color: red;
+}
+
+div.first {
+   background-color: green;
+}
+
+div.second {
+  background-color: blue;
+}
+
+div li {
+   background-color: yellow;
+}
