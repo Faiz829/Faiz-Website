@@ -1,0 +1,33 @@
+body {
+  background-image: url("palmtrees.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+.welcome {
+  text-align: center;
+}
+
+.selfie {
+  text-align: center;
+}
+
+#selfie {
+  border-style: solid;
+  border-width: 3px 25px 20px 3px;
+  border-color: black;
+  padding: 3px 25px 20px 3px;
+  background-color: red;
+}
+
+/* linkedin button attempt to center*/
+.linkedin {
+  text-align: center;
+}
+
+div.intro {
+   text-align: center;
+}
